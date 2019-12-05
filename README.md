@@ -10,7 +10,7 @@
 
 2.  Create a new security group based on your current ip address and change the security group name of `CND.py` to your security group name:
 
-   `SecurityGroups`= ['YourSecurityGroups']
+         `SecurityGroups`= ['YourSecurityGroups']
 
 3. Create a S3 bucket to store log files
 
