@@ -8,11 +8,9 @@
    aws_session_token= Yourawssessiontoken
    ```
 
-2.  Create a new security group based on your current ip address and change the security group name of `CND.py` to your security group name. 
+2.  Create a new security group based on your current ip address and change the security group name of `CND.py` to your security group name:
 
-   ```shell
-   SecurityGroups=['YourSecurityGroups']
-   ```
+   `SecurityGroups`= ['YourSecurityGroups']
 
 3. Create a S3 bucket to store log files
 
@@ -23,5 +21,5 @@
 6. Run the following command:
 
    ```shell
-   fab -f CND.py start:T=200,D=2,N=8
+   fab -f CND.py start:T=200,D=2,N=8 SecurityGroups=['YourSecurityGroups']
    ```
