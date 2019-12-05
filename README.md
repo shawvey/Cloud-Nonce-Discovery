@@ -26,5 +26,5 @@
 6. Run the following command:
 
    ```shell
-   fab -f CND.py start:T=200,D=2,N=8 SecurityGroups=['YourSecurityGroups']
+   fab -f CND.py start:T=200,D=2,N=8 
    ```
