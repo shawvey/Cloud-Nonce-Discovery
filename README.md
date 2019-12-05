@@ -16,6 +16,11 @@
 
 4. Install `Boto3` and `Fabric`
 
+   ```shell
+   pip install Boto3
+   pip install Fabric
+   ```
+
 5. Enter to the `Fabric` folder
 
 6. Run the following command:
