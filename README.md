@@ -1,3 +1,4 @@
+[中文版项目介绍](https://shawvey.github.io/%E5%88%A9%E7%94%A8AWS%E5%92%8CFabric%E6%A8%A1%E6%8B%9F%E5%A4%9A%E5%8F%B0%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%B9%B6%E8%A1%8C%E8%BF%9B%E8%A1%8C%E6%AF%94%E7%89%B9%E5%B8%81%E6%8C%96%E7%9F%BF%E9%AA%8C%E8%AF%81%E8%BF%87%E7%A8%8B/)
 # Cloud Nonce Discovery System
 
 Horizontal Scaling for an Embarrassingly Parallel Task: Blockchain Proof-of-Work in the Cloud
